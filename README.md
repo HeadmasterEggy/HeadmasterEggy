@@ -4,4 +4,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/HeadmasterEggy/HeadmasterEggy/output/github-contribution-grid-snake.svg" />
 </picture>
 
-generated with [Platane/snk](https://github.com/Platane/snk)
+@generated with [Platane/snk](https://github.com/Platane/snk)
